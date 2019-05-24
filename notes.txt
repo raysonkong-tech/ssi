@@ -4,3 +4,7 @@
 4. <center></center>
 5. <img src="link to image" height="" width="500">  
 
+6. Installing bootstrap with just cdn
+    -copy Bootstrap cdn
+    - copy jquery from basic template
+    - Now you can just copy and paste code from bootstrap under css tab
