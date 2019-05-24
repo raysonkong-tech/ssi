@@ -1,0 +1,6 @@
+1. <p> is a block element
+2. <h1> ...<h6>
+3. <br/>
+4. <center></center>
+5. <img src="link to image" height="" width="500">  
+
