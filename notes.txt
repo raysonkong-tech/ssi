@@ -8,3 +8,25 @@
     -copy Bootstrap cdn
     - copy jquery from basic template
     - Now you can just copy and paste code from bootstrap under css tab
+
+
+### Building Resume Website 1 with Bootstrap ###
+
+1. Create a Nabbar
+  - Copy code from Bootstrap, remove -fluid in nav class="container-fluid"
+    => looks nicer
+2. Delete the from and the two dropdowns
+
+3. Copy code for panel with title
+   - reference css tab in Bootstrap for Containers
+     => wrap the panel with container div
+     => to control width
+4. Add title to Panel title, use <strong></strong>
+
+5. Adding content to panel
+   => reference Grid System under css in CSS tab
+   <div class="col-md-1">.col-md-1</div>
+   -align="right"  for the right column
+   -align="justify" for left paragraph
+   - Use two <br/><br/> after div
+6. Put two <br/> after <p> for extra space
