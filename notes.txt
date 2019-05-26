@@ -30,3 +30,6 @@
    -align="justify" for left paragraph
    - Use two <br/><br/> after div
 6. Put two <br/> after <p> for extra space
+
+7. Add space to first item in First panel
+  => <br/>
