@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	 <title>Rayson Kong Resume Site</title>
+    	 <title>SSI  Kong Resume Site</title>
     	 <meta name ="description" content="Rayson Kong's resume! This will probably show up in google search description"/>
 
          <!-- Latest compiled and minified CSS -->
