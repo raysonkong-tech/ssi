@@ -33,3 +33,10 @@
 
 7. Add space to first item in First panel
   => <br/>
+  
+
+  ======= Themes =======
+  Paid
+  1. themeforest
+
+  Free: Search free resume html template
