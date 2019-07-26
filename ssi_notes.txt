@@ -1,0 +1,22 @@
+# how to use SSI (Server side include) ##
+When building a simple multi-page html site,
+the nav bar and footer are often codes that are repeared in all html files as they are present on all pages. 
+
+The Goal of SSI is to extract these repeated code to a single file such as header.html and footer.html, and use SSI to include those code in the right places.
+
+## Example
+
+1. On an html page
+
+    <body>
+        <? include "navbar.html"; ?>
+
+        <!-- Your html page-->
+    </body>
+
+2. Create navbar.html and extract code there
+
+3. change all html files to php files:
+  E.g. index.html ---> index.php
+
+4. Enjoy dry code!
