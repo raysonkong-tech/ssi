@@ -1,0 +1,5 @@
+ in your project root directory
+   - $ php -S 127.0.0.1:8080
+   -open browser and enter the above url
+   - rock and roll
+
